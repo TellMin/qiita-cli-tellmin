@@ -1,12 +1,12 @@
 ---
 title: Cloudflare Workers x HonoでJWT認証を設定する
 tags:
-  - "CloudflareWorkers"
-  - "Hono"
-  - "JWT"
+  - JWT
+  - CloudflareWorkers
+  - Hono
 private: false
-updated_at: ""
-id: null
+updated_at: '2023-08-31T00:07:06+09:00'
+id: 62893ec24f8e90a18dec
 organization_url_name: null
 slide: false
 ---
