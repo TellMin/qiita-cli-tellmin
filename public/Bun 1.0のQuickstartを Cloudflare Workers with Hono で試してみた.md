@@ -1,14 +1,14 @@
 ---
 title: Bun 1.0 の Quickstart を Cloudflare Workers with Hono で試してみた
 tags:
-  - "Bun"
-  - "Hono"
-  - "cloudflare"
-  - "CloudflareWorkers"
-  - "TypeScript"
+  - TypeScript
+  - cloudflare
+  - CloudflareWorkers
+  - Bun
+  - Hono
 private: false
-updated_at: ""
-id: null
+updated_at: '2023-09-12T00:11:53+09:00'
+id: 6f5f6cb8f7bab25405c2
 organization_url_name: null
 slide: false
 ---
