@@ -7,7 +7,7 @@ tags:
   - Bun
   - Hono
 private: false
-updated_at: '2023-09-12T00:11:53+09:00'
+updated_at: "2023-09-15T21:57:29+09:00"
 id: 6f5f6cb8f7bab25405c2
 organization_url_name: null
 slide: false
@@ -25,7 +25,7 @@ https://bun.sh/docs/quickstart
 
 https://zenn.dev/yusukebe/articles/efa173ab4b9360
 
-ということで、Cloudflare Workers with Hono コードを置き換えて deploy までしてみました。
+ということで、Cloudflare Workers with Hono で動作するコードに置き換えて、実際に deploy までしてみました。
 作業ログの側面もあり、実行結果を多めに載せています。
 
 それでは、やっていきましょうか。[^1]
@@ -45,8 +45,6 @@ https://zenn.dev/yusukebe/articles/efa173ab4b9360
 
 https://github.com/TellMin/bun-hono
 
-それでは、やっていきましょう。
-
 ## Bun セットアップ 🧑‍🍳
 
 まずは Bun の インストールから。
@@ -56,7 +54,7 @@ https://bun.sh/docs/installation
 筆者は WSL2 Ubuntu 22.04 を利用しているので `curl` でインストールします。
 
 ```Batch
-$ curl -fsSL https://bun.sh/install | Batch
+$ curl -fsSL https://bun.sh/install | bash
 
 error: unzip is required to install bun (see: https://github.com/oven-sh/bun#unzip-is-required)
 ```
@@ -94,7 +92,7 @@ Processing triggers for mailcap (3.70+nmu1ubuntu1) ...
 再度 Bun のインストールを試みます。
 
 ```Batch
-$ curl -fsSL https://bun.sh/install | Batch
+$ curl -fsSL https://bun.sh/install | bash
 
 ######################################################################## 100.0%
 bun was installed successfully to ~/.bun/bin/bun
