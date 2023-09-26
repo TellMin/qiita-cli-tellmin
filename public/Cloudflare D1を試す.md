@@ -1,15 +1,16 @@
 ---
 title: Cloudflare D1 を試そう with SvelteKit
 tags:
+  - TypeScript
   - cloudflare
   - Svelte
-  - TypeScript
   - Bun
 private: false
-updated_at: ""
-id: null
+updated_at: '2023-09-26T22:04:48+09:00'
+id: 25150684160759c91270
 organization_url_name: null
 slide: false
+ignorePublish: false
 ---
 
 # はじめに :sparkles:
