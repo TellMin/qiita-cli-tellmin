@@ -11,6 +11,7 @@ updated_at: '2023-03-13T22:03:24+09:00'
 id: 9f692c66e4a137aa3733
 organization_url_name: null
 slide: false
+ignorePublish: false
 ---
 成果物 => **[blazorserver-devcontainer-playground](https://github.com/TellMin/blazorserver-devcontainer-playground)**
 

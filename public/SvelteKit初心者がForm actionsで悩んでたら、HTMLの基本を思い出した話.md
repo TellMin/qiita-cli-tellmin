@@ -10,6 +10,7 @@ updated_at: '2023-03-21T23:55:05+09:00'
 id: 287b27c537f35a20e669
 organization_url_name: null
 slide: false
+ignorePublish: false
 ---
 ## TL;DR :chocolate_bar: 
 
