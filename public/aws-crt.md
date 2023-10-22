@@ -1,12 +1,12 @@
 ---
 title: Next.js の App Router 利用時 に 'aws-crt' が Module not found Can't resolve となる件
 tags:
-  - "Next.js"
-  - "AWS"
-  - "TypeScript"
+  - AWS
+  - TypeScript
+  - Next.js
 private: false
-updated_at: ""
-id: null
+updated_at: '2023-10-22T21:57:10+09:00'
+id: 9849e81c0d61b2ed7a6d
 organization_url_name: null
 slide: false
 ignorePublish: false
