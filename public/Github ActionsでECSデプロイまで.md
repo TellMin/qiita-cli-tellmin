@@ -1,13 +1,13 @@
 ---
-title: "GitHub Actions で ECR に Docker イメージをプッシュして ECS にデプロイまで"
+title: GitHub Actions で ECR に Docker イメージをプッシュして ECS にデプロイまで
 tags:
-  - "Docker"
-  - "GitHub"
-  - "AWS"
-  - "C#"
+  - GitHub
+  - AWS
+  - C#
+  - Docker
 private: false
-updated_at: ""
-id: null
+updated_at: '2023-12-12T22:00:05+09:00'
+id: acddd8e5794a08334931
 organization_url_name: null
 slide: false
 ignorePublish: false
