@@ -1,13 +1,13 @@
 ---
 title: actix-webでBlazor WebAssemblyをホストする
 tags:
-  - Rust
-  - actix-web
   - C#
+  - Rust
   - Blazor
+  - actix-web
 private: false
-updated_at: ""
-id: null
+updated_at: '2023-12-22T23:12:09+09:00'
+id: 9e7f1e576a195103aa92
 organization_url_name: null
 slide: false
 ignorePublish: false
